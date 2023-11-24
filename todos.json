@@ -4,8 +4,8 @@
       "id": 1,
       "title": "Hello World",
       "deadline": "1900-01-01",
-      "completed": false,
-      "archived": false
+      "completed": true,
+      "archived": true
     },
     {
       "id": 2,
@@ -13,6 +13,37 @@
       "deadline": "2000-01-01",
       "completed": false,
       "archived": false
+    },
+    {
+      "title": "asdasda",
+      "completed": false,
+      "archived": false,
+      "id": 3
+    },
+    {
+      "title": "asd",
+      "completed": false,
+      "archived": false,
+      "id": 4
+    },
+    {
+      "title": "1",
+      "completed": true,
+      "archived": true,
+      "id": 5
+    },
+    {
+      "title": "1",
+      "completed": true,
+      "archived": true,
+      "id": 6
+    },
+    {
+      "deadline": "2000-12-31T23:00:00.000Z",
+      "title": "1",
+      "completed": true,
+      "archived": true,
+      "id": 7
     }
   ]
 }
